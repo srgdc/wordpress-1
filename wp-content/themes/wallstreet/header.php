@@ -17,7 +17,7 @@
 </head>
 <body <?php body_class(); ?>>
 <!--Header Top Layer Section-->	
-	<div class="header-top-area">
+	<!--div class="header-top-area">
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6">
@@ -56,11 +56,11 @@
 			</div>
 		</div>	
 	</div>
-</div>
+</div -->
 <!--/Header Top Layer Section-->	
 
 <!--Header Logo & Menus-->
-<div class="navbar navbar-wrapper navbar-inverse navbar-static-top" role="navigation">
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
           <div class="container">
 	  
 		<!-- Brand and toggle get grouped for better mobile display -->
@@ -99,4 +99,4 @@
 		</div><!-- /.navbar-collapse -->	 
 	</nav>		
 </div>
-</div>
+</nav>

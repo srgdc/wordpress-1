@@ -5,12 +5,12 @@
 /*Menu Section--------------------------------------------------------------------------*/
 
 .navbar-inverse .navbar-toggle {
-    background: none repeat scroll 0 0 #66d1b9;
+    background: none repeat scroll 0 0 #D9506F;
     border-color: none;
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-  background-color: #66d1b9;
+  background-color: #D9506F;
 }
 .navbar-inverse {
     border-color: none;
@@ -20,7 +20,7 @@
 	border-color: none;
 }
 .navbar-brand {
-	font-family: 'Roboto';
+	font-family: 'Roboto Condensed', sans-serif;
 	fonr-weight:300;
     font-size: 40px;
     height: auto;
@@ -35,7 +35,7 @@
     margin-left: 0px;
 }
 .navbar-inverse {
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(217, 80, 111, 0.6);
     border-bottom: 0;
 	border-top: 0;
 	border-right: 0;
@@ -57,18 +57,18 @@
 .navbar .navbar-nav > .active > a,
 .navbar .navbar-nav > .active > a:hover,
 .navbar .navbar-nav > .active > a:focus {
-    background-color: #00c2a9;
+    background-color: #D9506F;
 	color: #FFFFFF;
 }
 .navbar .navbar-nav > .open > a,
 .navbar .navbar-nav > .open > a:hover,
 .navbar .navbar-nav > .open > a:focus {
-	background-color: #00c2a9;
+	background-color: #D9506F;
 	color: #FFFFFF;
 }
 .navbar .navbar-nav > li > a:hover,
 .navbar .navbar-nav > li > a:focus {
-	background-color: #00c2a9;
+	background-color: #D9506F;
 	color: #FFFFFF;
 }
 .navbar .navbar-nav > li {
@@ -105,7 +105,7 @@
 	/* box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.7); */
 }
 .dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
-    background-color: #00c2a9;
+    background-color: #D9506F;
     color: #fff;
 }
 .dropdown-menu > li > a {
@@ -124,7 +124,7 @@
 }
 .dropdown-menu > li > a:hover,
 .dropdown-menu > li > a:focus {
-    color: #00c2a9;
+    color: #D9506F;
     text-decoration: none;
     background-color: transparent;
 }
